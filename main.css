@@ -1,0 +1,54 @@
+
+body{
+    background-color: sandybrown;
+}
+
+
+
+.row{
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.heading{
+    background-color: orangered;
+    min-height: 10vh;
+    font-size: 50px;
+}
+
+.buttons{
+    display: flex;
+    min-height: 100vh;
+    flex-direction:row;
+    background-color: orange;
+    min-height: 10vh;
+    font-size: 40px;
+}
+
+
+
+.box{
+    color: brown ;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    width: 300px;
+}
+
+
+.description{
+    background-color: orange;
+    min-height: 10vh;
+    font-size: 25px;
+    color: black;
+}
+
+.image img{
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
